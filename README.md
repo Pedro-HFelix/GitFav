@@ -14,4 +14,4 @@ gitFav is a web application that fetches and displays GitHub user data using the
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/seu-usuario/gitFav.git
+   git clone https://github.com/Pedro-HFelix/GitFav
